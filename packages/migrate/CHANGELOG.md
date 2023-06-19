@@ -1,5 +1,11 @@
 # svelte-migrate
 
+## 1.2.2
+
+### Patch Changes
+
+- fix: changed `index` to `index.d.ts` in `typesVersions` ([#10180](https://github.com/sveltejs/kit/pull/10180))
+
 ## 1.2.1
 
 ### Patch Changes
